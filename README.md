@@ -21,4 +21,4 @@ This year, 9 projects were proposed by Ouest Médialab and his partner medias.
 
 # Beaujoire2
 
-All major contributions to this repository have been organized within the $beaujoire-2 directory.
+All major contributions to this repository have been organized within the $beaujoire-2$ directory.
