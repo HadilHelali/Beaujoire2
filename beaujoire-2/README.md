@@ -21,3 +21,8 @@ Participants :
 ## Instructions de déploiement
 
 Avant de lancer l'application, bien penser à effectuer un npm install, puis un npm start.
+
+## Présentation 
+
+[![Présentation](thumbnail.png)](HYBLAB_VF.pdf)
+
